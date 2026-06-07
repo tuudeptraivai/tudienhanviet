@@ -1,0 +1,6 @@
+{
+  "name": "Từ điển Hán-Việt",
+  "description": "Ứng dụng tra cứu từ điển Hán-Việt trực quan, tra chữ Hán, phiên âm Hán-Việt hoặc nghĩa tiếng Việt tiện lợi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
